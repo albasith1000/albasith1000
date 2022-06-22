@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Abdul Basith
+- 👀 I’m interested in web development
+- 🌱 I’m currently working as a senior web developer of 12+ years of experience.
+- 📫 reach me by albasith1000@gmail.com
